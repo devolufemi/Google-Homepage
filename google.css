@@ -1,0 +1,118 @@
+.profile {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+
+
+header a,header i,header img {
+    margin-right: 25px;
+    text-decoration: underline;
+}
+
+header div {
+    display: inline-block;
+    position: absolute;
+    right: 0;
+}
+header a ,header i {
+    position: relative;
+   top:-10px;
+}
+
+.google-logo {
+    margin-left:30%;
+    margin-top: 6%;
+}
+.fa-share-alt {
+    color:#8032ff;
+    font-size:x-large;
+}
+
+input[type="search"] {
+    padding:12px;
+    padding-left: 54px;
+    padding-right: 50px;
+    min-width: 50%;
+    border-width:1px ;
+    border-top-color: lightgray;
+    border-radius: 20px;
+    border-color: lightgray;
+    outline: none;
+    margin-top: 5%;
+    margin-left:25% ;
+}
+
+.search-parent {
+    position: relative;
+}
+
+.search-parent .fa-search {
+    position: absolute;
+    left:26%;
+    top:75%;
+}
+.fa-microphone{
+    position: absolute;
+    right:27%;
+    top:75%;
+}
+
+.arrange{
+    float: right;
+    position: inline-block;
+}
+
+a {
+    text-decoration: none;
+}
+
+.holdbtn {
+    margin-bottom: 45px;
+}
+.infosec1{
+    float: left;
+    margin-left: 30%;
+    width:180px;
+    padding:15px;
+    background-color: lightgrey;
+    border-radius: 10px;
+    opacity: 0.4;
+    text-align: center;
+}
+.infosec2{
+    float: right;
+    width: 180px;
+    margin-right: 25%;
+    padding-left:20px;
+    padding: 15px;
+    background-color: lightgrey;
+    border-radius: 10px;
+    opacity: 0.4;
+    text-align: center;
+}
+
+.lang {
+    padding: 2%;
+    padding-left: 40%;
+}
+
+.foot ,.footer-links {
+    background :#f2f2f2;
+    border:1px solid #d9dadf;
+    padding:0.6%;
+    width: 100%;
+    margin:0px;
+}
+
+footer a,.foot {
+    color:#70747A;
+}
+
+.footer-links a {
+    margin-left: 2%;
+}
+.foot2 {
+    float:right;
+}
